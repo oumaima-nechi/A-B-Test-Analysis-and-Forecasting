@@ -1,8 +1,6 @@
 
 # Search Ranking System A/B Test Analysis and Forecasting
 
-![A/B Testing Illustration]()
-
 
 ## 🔍 Project Overview
 This project evaluates the effectiveness of a new search ranking system for an online travel agency (OTA) and forecasts its business impact. The primary goal is to determine whether the new ranking algorithm increases booking conversions without negatively impacting the time it takes users to make a booking, and to forecast the expected conversion lift when fully deployed.
